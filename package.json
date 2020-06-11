@@ -85,11 +85,13 @@
     "react": "16.13.1",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "1.6.1",
+    "react-native-reanimated": "1.9.0",
     "typescript": "3.8.3"
   },
   "peerDependencies": {
     "react": "> 15.0.0",
     "react-native": "> 0.50.0",
-    "react-native-gesture-handler": "> 1.0.0"
+    "react-native-gesture-handler": "> 1.0.0",
+    "react-native-reanimated": "> 1.6.0"
   }
 }
